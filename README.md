@@ -28,3 +28,4 @@ A public repository which I'll be using for adding notes, exercises while learni
 * [baby Steps](https://github.com/sag333ar/LearningNodeJS/blob/master/learnyounode/_02program.js)
 * [My First I/O](https://github.com/sag333ar/LearningNodeJS/blob/master/learnyounode/_03program.js)
 * [My First Async I/O](https://github.com/sag333ar/LearningNodeJS/blob/master/learnyounode/_04program.js)
+* [Read files from given directory with extension filter](https://github.com/sag333ar/LearningNodeJS/blob/master/learnyounode/_05program.js)
