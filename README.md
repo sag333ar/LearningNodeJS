@@ -1,7 +1,7 @@
 # LearningNodeJS
 A public repository which I'll be using for adding notes, exercises while learning Node JS.
 
-# My Solutions to - Javascripting
+# My Solutions to - [Javascripting](https://github.com/workshopper/javascripting)
 
 * [Variables](https://github.com/sag333ar/LearningNodeJS/blob/master/javascripting/variables.js)
 * [Strings](https://github.com/sag333ar/LearningNodeJS/blob/master/javascripting/strings.js)
@@ -21,3 +21,10 @@ A public repository which I'll be using for adding notes, exercises while learni
 * [Functions](https://github.com/sag333ar/LearningNodeJS/blob/master/javascripting/functions.js)
 * [Function Arguments](https://github.com/sag333ar/LearningNodeJS/blob/master/javascripting/function-arguments.js)
 * [Scope](https://github.com/sag333ar/LearningNodeJS/blob/master/javascripting/scope.js)
+
+# My Solutions to - [LearnYouNode](https://github.com/workshopper/learnyounode)
+
+* [Hello World](https://github.com/sag333ar/LearningNodeJS/blob/master/learnyounode/_01program.js)
+* [baby Steps](https://github.com/sag333ar/LearningNodeJS/blob/master/learnyounode/_02program.js)
+* [My First I/O](https://github.com/sag333ar/LearningNodeJS/blob/master/learnyounode/_03program.js)
+* [My First Async I/O](https://github.com/sag333ar/LearningNodeJS/blob/master/learnyounode/_04program.js)
