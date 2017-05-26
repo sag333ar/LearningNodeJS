@@ -16,7 +16,7 @@
 	- Logging response
 	- Setting event-handler on response object for `data` & `error` events
 	- Setting event-handler on http-get object for `error` event
-* [Use buffer list to handle data of http-get](https://github.com/sag333ar/LearningNodeJS/blob/master/learnyounode/_06program.js)
+* [Use buffer list to handle data of http-get](https://github.com/sag333ar/LearningNodeJS/blob/master/learnyounode/_08program.js)
 	- Create http-get request
 	- Create buffer list
 	- invoke `pipe` function of `response`
