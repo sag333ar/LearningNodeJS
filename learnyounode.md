@@ -22,3 +22,7 @@
 	- invoke `pipe` function of `response`
 	- append received data from response-pipe to object of buffer-list
 	- on-response-end event, log buffer-list object after converting it to string.
+* [Multiple Http-get one after another](https://github.com/sag333ar/LearningNodeJS/blob/master/learnyounode/_09program.js)
+	- Create a function for http-get request
+	- Invoke above function for multiple url-request
+	- Once all url-requests are complete, log merged response
